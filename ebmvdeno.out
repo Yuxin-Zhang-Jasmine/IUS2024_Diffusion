@@ -1,0 +1,60 @@
+DRUS_v1_config
+DRUS_v1_modelPath
+MATLAB_PATH
+/run/current-system/profile/lib
+/run/current-system/profile/lib:/micromamba/yzhang2018@ec-nantes.fr/envs/ddrm/lib/
+Path of the current ckpt: exp/logs/both1c/model004000.pt
+Loading the degradation function/matrix  and it's svd (Deno)
+data channels : 1
+model in_channels : 1
+The corresponding MATLAB path: /home/yzhang2018@ec-nantes.fr/TMI2023/Observation_SVDresults/
+----------------------------------------------------------------------------
+contrast_expe
+----------------------------------------------------------------------------
+Start restoration
+len(timestepsLst) =  20
+Finish 1
+Finish 2
+Finish 3
+Finish 4
+Finish 5
+Finish 6
+Finish 7
+Finish 8
+Finish 9
+Finish 10
+Finish 11
+Finish 12
+Finish 13
+Finish 14
+Finish 15
+Finish 16
+Finish 17
+Finish 18
+Finish 19
+Finish 20
+----------------------------------------------------------------------------
+carotid_cross
+----------------------------------------------------------------------------
+Start restoration
+len(timestepsLst) =  20
+Finish 1
+Finish 2
+Finish 3
+Finish 4
+Finish 5
+Finish 6
+Finish 7
+Finish 8
+Finish 9
+Finish 10
+Finish 11
+Finish 12
+Finish 13
+Finish 14
+Finish 15
+Finish 16
+Finish 17
+Finish 18
+Finish 19
+Finish 20

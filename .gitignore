@@ -1,0 +1,5 @@
+.vscode
+.idea/
+__pycache__/
+*.pth
+exp/logs/both1c/model004000.pt
