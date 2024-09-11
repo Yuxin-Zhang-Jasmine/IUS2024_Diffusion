@@ -77,13 +77,7 @@ def parse_args_and_config():
         "--matlab_path",
         type=str,
         required=True,
-        help="MATLAB path where the 3 folders SVD, Results, PICMUS are stored"
-    )
-    parser.add_argument(
-        "--phansType",
-        type=str,
-        required=True,
-        help="type of the synthetic natural images-based phantoms, [exp4x or linear]"
+        help="MATLAB path where the measurements are stored"
     )
     parser.add_argument(
         "--comment", type=str, default="", help="A string for experiment comment"

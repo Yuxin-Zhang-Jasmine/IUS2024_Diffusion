@@ -27,5 +27,5 @@ echo $LD_LIBRARY_PATH
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/micromamba/yzhang2018@ec-nantes.fr/envs/ddrm/lib/
 echo $LD_LIBRARY_PATH
 
-python -u /home/yzhang2018@ec-nantes.fr/DRUS-v1-glicid/main.py --ni --config $v1_config  --doc $v1_modelPath  --ckpt model004000.pt --matlab_path $MATLAB_PATH --timesteps 50 --deg Deno --image_folder dasdeno  --phansType linear
+python -u /home/yzhang2018@ec-nantes.fr/DRUS-v1-glicid/main.py --ni --config $v1_config  --doc $v1_modelPath  --ckpt model004000.pt --matlab_path $MATLAB_PATH --timesteps 50 --deg Deno --image_folder dasdeno
 
